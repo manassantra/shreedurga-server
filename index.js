@@ -15,7 +15,7 @@ app.use(
 );
 
 const corsList = { 
-    origin: '*'
+    origin: 'https://shreedurga-client.onrender.com/'
   };
 app.use(cors(corsList));
 
